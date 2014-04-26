@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: d9569feeb7abf4094b12a969d5cf98c3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: lowleg_L
+    100002: finger3e_R
+    100004: thumb3e_R
+    100006: finger1_R
+    100008: thumb2_R
+    100010: thumb1_R
+    100012: lowarm_R
+    100014: finger2_R
+    100016: uparm_R
+    100018: hand_R
+    100020: thumb3e_L
+    100022: elbow_R
+    100024: thumb1_L
+    100026: shoulder_R
+    100028: finger2_L
+    100030: thumb2_L
+    100032: hand_L
+    100034: finger3e_L
+    100036: uparm_L
+    100038: finger1_L
+    100040: shoulder_L
+    100042: lowarm_L
+    100044: head
+    100046: elbow_L
+    100048: //RootNode
+    100050: joint1 1
+    100052: upleg_R
+    100054: joint2 1
+    100056: heel_L
+    100058: heel_R
+    100060: spine4
+    100062: heade
+    100064: spine2
+    100066: neck
+    100068: roothandle
+    100070: spine3
+    100072: gun_model
+    100074: spine1
+    100076: robotskin1
+    100078: gun
+    100080: lowleg_R
+    100082: upleg_L
+    100084: joint2
+    100086: joint1
+    400000: lowleg_L
+    400002: finger3e_R
+    400004: thumb3e_R
+    400006: finger1_R
+    400008: thumb2_R
+    400010: thumb1_R
+    400012: lowarm_R
+    400014: finger2_R
+    400016: uparm_R
+    400018: hand_R
+    400020: thumb3e_L
+    400022: elbow_R
+    400024: thumb1_L
+    400026: shoulder_R
+    400028: finger2_L
+    400030: thumb2_L
+    400032: hand_L
+    400034: finger3e_L
+    400036: uparm_L
+    400038: finger1_L
+    400040: shoulder_L
+    400042: lowarm_L
+    400044: head
+    400046: elbow_L
+    400048: //RootNode
+    400050: joint1 1
+    400052: upleg_R
+    400054: joint2 1
+    400056: heel_L
+    400058: heel_R
+    400060: spine4
+    400062: heade
+    400064: spine2
+    400066: neck
+    400068: roothandle
+    400070: spine3
+    400072: gun_model
+    400074: spine1
+    400076: robotskin1
+    400078: gun
+    400080: lowleg_R
+    400082: upleg_L
+    400084: joint2
+    400086: joint1
+    2300000: gun_model
+    3300000: gun_model
+    4300000: robotskin1
+    4300002: gun_model
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: roothandle
+    13700002: robotskin1
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
